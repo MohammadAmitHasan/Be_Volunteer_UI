@@ -1,0 +1,8 @@
+#home {
+    background-image: url(volunteer_bg.jpg);
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.2;
+}
